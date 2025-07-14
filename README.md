@@ -15,8 +15,8 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Muhammad! <img align="centre" src="https://komarev.com/ghpvc/?username=Muhammad-Shah&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Shah" /> 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Afaq! <img align="centre" src="https://komarev.com/ghpvc/?username=Muhammad-Shah&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Shah" /> 
+*Deep Learning and NLP Learner*
 <br /> 
 
 <!--Start Intro-->               
@@ -37,7 +37,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhatti&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Afaq-Bhatti&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <p align="center">
