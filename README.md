@@ -15,7 +15,7 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Afaq! <img align="centre" src="https://komarev.com/ghpvc/?username=Muhammad-Shah&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Shah" /> 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Afaq! <img align="centre" src="https://komarev.com/ghpvc/?username=M-Afaq-Bhatti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 *Deep Learning and NLP Learner*
 <br /> 
 
@@ -23,7 +23,7 @@
 <p align="left">I am a NLP Engineer and Data Scientist with a huge love for Python, LLMs, RDBMS, REST API, Modeling and Data Visualization. </p>
 
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - 🙋‍♂️ Ask me about Deep Learning, Machine Learning, NLP, Agents these are my jam! Feel free to reach out and discuss these topics..
 - ❤ Experienced in databases, version control systems like Git and collaboration through GitHub, fast API, web scraping and data extraction techniques.
 
@@ -42,10 +42,10 @@
 
 <p align="center">
     <a href="https://github.com/M-Afaq-Bhatti?tab=repositories">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=M-Afaq-Bhatti&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=M-Afaq-Bhatti&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=github-readme-stats"  width="48%" alt="@M-Afaq-Bhatti's github stats">
     </a>
     <a href="https://github.com/M-Afaq-Bhatti?tab=stars">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Afaq-Bhatti&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Afaq-Bhatti&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@M-Afaq-Bhatti's github-readme-streak-stats">
     </a>
   </p>
 
@@ -62,7 +62,7 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=The%20smallest%20of%20actions%20is%20always%20better%20than%20the%20noblest%20of%20intentions.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=The%20smallest%20of%20actions%20is%20always%20better%20than%20the%20noblest%20of%20intentions.&theme=dark&bg_color=1a1a1a">
 </p>
 
 <!--Contact Section--> 
